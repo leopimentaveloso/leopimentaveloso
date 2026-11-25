@@ -35,8 +35,7 @@ Algunos de los laboratorios y estudios de caso desarrollados a lo largo de mi fo
 
 ### 🌐 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pimenta-veloso/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leopimentaveloso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pimenta-veloso/?locale=es-ES)
 
 ---
 *Construyendo puentes entre el cumplimiento legal y la seguridad técnica práctica.*
