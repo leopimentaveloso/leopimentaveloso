@@ -36,7 +36,6 @@ Here are some of the technical labs and case studies I have developed:
 ### 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pimenta-veloso/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leopimentaveloso)
 
 ---
 *Bridging the gap between legal compliance and hands-on technical defense.*
