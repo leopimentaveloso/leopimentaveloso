@@ -36,7 +36,6 @@ Aqui estão alguns dos laboratórios e estudos de caso desenvolvidos durante min
 ### 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pimenta-veloso/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leopimentaveloso)
 
 ---
 *Construindo pontes entre conformidade jurídica e segurança técnica prática.*
